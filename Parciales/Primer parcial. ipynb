@@ -1,0 +1,4 @@
+import pandas as pd 
+import numpy as np
+
+emicron = pd.read_csv("https://raw.githubusercontent.com/niconomist98/DataAnalyticsUQ/refs/heads/main/Datos/EMICRON/emicron_identificacion.csv", sep="",")
